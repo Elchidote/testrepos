@@ -1,6 +1,7 @@
 def promedio_std(lista):
     ## x es promedio
     ## y es desviasion estandar
+    ## esto esta hecho en chield branch
     suma = 0
     SumaEstandar = 0
     i = 0
